@@ -4,7 +4,7 @@ I'm a passionate and motivated frontend developer with a focus on building respo
 🔧 Technologies & Tools
 HTML5 / CSS3 / JavaScript/bootstrap /react
 
-Bootstrap 5 / Tailwind CSS/node js/reactjs
+Bootstrap 5 / /node js/reactjs
 
 Git & GitHub
 
